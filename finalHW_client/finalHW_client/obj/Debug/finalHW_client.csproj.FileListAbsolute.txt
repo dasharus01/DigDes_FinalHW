@@ -1,0 +1,8 @@
+D:\Project\C#\DigDes\finalHW_client\finalHW_client\bin\Debug\finalHW_client.exe.config
+D:\Project\C#\DigDes\finalHW_client\finalHW_client\bin\Debug\finalHW_client.exe
+D:\Project\C#\DigDes\finalHW_client\finalHW_client\bin\Debug\finalHW_client.pdb
+D:\Project\C#\DigDes\finalHW_client\finalHW_client\obj\Debug\finalHW_client.csproj.AssemblyReference.cache
+D:\Project\C#\DigDes\finalHW_client\finalHW_client\obj\Debug\finalHW_client.csproj.SuggestedBindingRedirects.cache
+D:\Project\C#\DigDes\finalHW_client\finalHW_client\obj\Debug\finalHW_client.csproj.CoreCompileInputs.cache
+D:\Project\C#\DigDes\finalHW_client\finalHW_client\obj\Debug\finalHW_client.exe
+D:\Project\C#\DigDes\finalHW_client\finalHW_client\obj\Debug\finalHW_client.pdb
