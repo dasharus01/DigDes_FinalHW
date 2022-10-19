@@ -1,0 +1,9 @@
+D:\Project\C#\DigDes\finalHW_service\finalHW_service\bin\Debug\finalHW_service.exe.config
+D:\Project\C#\DigDes\finalHW_service\finalHW_service\bin\Debug\finalHW_service.exe
+D:\Project\C#\DigDes\finalHW_service\finalHW_service\bin\Debug\finalHW_service.pdb
+D:\Project\C#\DigDes\finalHW_service\finalHW_service\obj\Debug\finalHW_service.csproj.AssemblyReference.cache
+D:\Project\C#\DigDes\finalHW_service\finalHW_service\obj\Debug\finalHW_service.csproj.SuggestedBindingRedirects.cache
+D:\Project\C#\DigDes\finalHW_service\finalHW_service\obj\Debug\finalHW_service.csproj.CoreCompileInputs.cache
+D:\Project\C#\DigDes\finalHW_service\finalHW_service\obj\Debug\finalHW_service.exe
+D:\Project\C#\DigDes\finalHW_service\finalHW_service\obj\Debug\finalHW_service.pdb
+D:\Project\C#\DigDes\finalHW_service\finalHW_service\obj\Debug\finalHW_service.csproj.CopyComplete
